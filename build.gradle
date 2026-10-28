@@ -2,7 +2,7 @@ plugins {
 	id "java"
 	id "idea"
 	id "org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin" version "3.1.10"
-	id "io.swagger.core.v3.swagger-gradle-plugin" version "2.2.28"
+	id "io.swagger.core.v3.swagger-gradle-plugin" version "3.0.0"
 	id "io.freefair.lombok" version "8.12.1"
 	id "maven-publish"
 	id "signing"
